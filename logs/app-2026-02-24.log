@@ -1,0 +1,28 @@
+[22:30:08.284] [INFO] Подключение к БД успешно.
+[22:30:09.512] [INFO] Модели синхронизированы.
+[22:30:32.755] [DEBUG] [tasks] Найдено доступных заданий: 0
+[22:30:32.756] [INFO] [tasks] У пользователя нет доступных заданий
+[22:36:53.278] [INFO] Получен SIGINT, остановка бота
+[22:36:58.783] [INFO] Подключение к БД успешно.
+[22:36:59.909] [INFO] Модели синхронизированы.
+[22:37:55.344] [ERROR] [5253359276] Telegraf error:
+  TypeError: Assignment to constant variable.
+      at checkBetusXSubscription (D:\code\project\tg_bots\handlers\menu.js:182:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+      at async execute (D:\code\project\tg_bots\node_modules\telegraf\lib\composer.js:518:17)
+      at async D:\code\project\tg_bots\node_modules\telegraf\lib\composer.js:519:21
+      at async execute (D:\code\project\tg_bots\node_modules\telegraf\lib\composer.js:518:17)
+      at async D:\code\project\tg_bots\node_modules\telegraf\lib\composer.js:519:21
+      at async execute (D:\code\project\tg_bots\node_modules\telegraf\lib\composer.js:518:17)
+      at async D:\code\project\tg_bots\node_modules\telegraf\lib\composer.js:519:21
+      at async execute (D:\code\project\tg_bots\node_modules\telegraf\lib\composer.js:518:17)
+      at async D:\code\project\tg_bots\node_modules\telegraf\lib\composer.js:519:21
+[22:40:52.340] [INFO] Получен SIGINT, остановка бота
+[22:40:55.929] [INFO] Подключение к БД успешно.
+[22:40:57.053] [INFO] Модели синхронизированы.
+[22:44:01.907] [INFO] Получен SIGINT, остановка бота
+[19:47:47.575] [INFO] Подключение к БД успешно.
+[19:47:47.612] [INFO] Модели синхронизированы.
+[19:47:49.561] [INFO] Получен SIGINT, остановка бота
+[19:48:19.901] [INFO] Подключение к БД успешно.
+[19:48:19.924] [INFO] Модели синхронизированы.
